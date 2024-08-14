@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Truong Cao Hoang Gia
-- 👀 I’m interested in coding, playing piano and games ;)
+- 👀 I’m interested in coding, reading and gaming ;)
 - 🌱 I’m currently learning at **Ho Chi Minh University of Science**
 - 📫 How to reach me: truongcaohoanggia@gmail.com or:
   * [Twitter](https://twitter.com/_hoanggia_)
