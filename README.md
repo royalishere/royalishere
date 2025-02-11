@@ -9,7 +9,7 @@
 
 <h3 align="left">About me:</h3>
 
-I am currently completed my studies at University and will be graduated on June 2025. Now I'm looking for the opportunities as a Web Developer or data-related position. I am eager to apply and strengthen my skills in a real working and professional environment.
+Currently I've already finished my studies at University and will be graduated on June 2025. Now I'm looking for the opportunities as a Web Developer or data-related position. I am eager to apply and strengthen my skills in a real working and professional environment.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
