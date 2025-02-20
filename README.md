@@ -85,4 +85,4 @@ Currently I've already finished my studies at University and will be graduated o
  
  <p>&nbsp&nbsp&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royalishere&show_icons=true&locale=en" alt="royalishere" /></p>
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royalishere&" alt="royalishere" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royalishere" alt="royalishere" /></p>
